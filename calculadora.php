@@ -6,7 +6,7 @@
     <title>Calculadora</title>
 </head>
 <body>
-    <h1> Calculadora Fullstack!</h1>
+    <h1> Calculadora Fullstack! </h1>
 
     <form action="calculadora.php" method="post">    
         <label>Numero 1</label>
